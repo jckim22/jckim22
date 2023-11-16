@@ -29,7 +29,7 @@
 
  ### Tech_blog
  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jckim22)](https://velog.io/jckim22) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jckim22)](https://velog.io/@jckim22) 
 
  
 
