@@ -1,4 +1,5 @@
-# KIM_JU_CHAN 👋 
+# KIM_JU_CHAN 👋 <br>
+### C++ developer
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjckim22&count_bg=%23278BED&title_bg=%230BE3E7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
@@ -13,6 +14,8 @@
 
 # 💪Skills
   
+<img src="https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&style=flat"> <img src="https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat">
+<br>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> 
