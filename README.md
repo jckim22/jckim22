@@ -3,11 +3,7 @@ Security Engineer
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jckim2)](https://solved.ac/jckim2/)
 
-<br>
-
 ------- 
-
-<br>
 
 # 💪Project
 - OO사 서비스 블랙박스 모의해킹 (다수)
