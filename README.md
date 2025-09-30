@@ -6,7 +6,7 @@ Security Engineer
 ------- 
 
 # 💪Project
-- OO사 서비스 블랙박스 모의해킹 (다수)
+- OO사 서비스 블랙, 그레이, 화이트박스 모의해킹 (다수)
 - OO사 침해사고 분석 프로젝트
 
 # 🐝BugBounty
