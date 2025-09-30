@@ -1,5 +1,5 @@
 # KIM_JU_CHAN 👋 <br>
-
+Security Engineer
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jckim2)](https://solved.ac/jckim2/)
 
