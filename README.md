@@ -13,14 +13,18 @@ Security Devleoper
 
 # 🐝BugBounty
 ## Kakao
-2025 Kakao Bugbounty Hall of Fame 등재
+2025 Kakao Bugbounty Hall of Fame 등재 (10명 중 3위)
+<br>
+[카카오](https://bugbounty.kakao.com/notice/halloffame)
 - KV-2025-212
 - KV-2025-213
 
 ## Naver
-2025 Naver Bugbounty Hall of Fame 등재
+2025 Naver Bugbounty Hall of Fame 등재 (27명 중 7위)
+<br>
+[네이버](https://bugbounty.naver.com/hall-of-fame)
 - NBB-2025-0171
-  
+
 
  # :mailbox_with_mail: Contacts
 
