@@ -1,6 +1,5 @@
 # KIM_JU_CHAN 👋 <br>
-Security Devleoper
-- AntiVirus Developer (c++)
+- S/W Developer
 - WhiteHacker
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jckim2)](https://solved.ac/jckim2/)
