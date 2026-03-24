@@ -1,21 +1,20 @@
 # KIM_JU_CHAN 👋 <br>
 - S/W Developer
-- WhiteHacker
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jckim2)](https://solved.ac/jckim2/)
 
 ------- 
 
-# 🐝BugBounty
+# 🐝White Hacking
 ## Kakao
-2025 Kakao Bugbounty Hall of Fame 등재 (3위)
+2025 Kakao Bugbounty Hall of Fame 등재 (4위)
 <br>
 [카카오](https://bugbounty.kakao.com/notice/halloffame)
 - KV-2025-212
 - KV-2025-213
 
 ## Naver
-2025 Naver Bugbounty Hall of Fame 등재 (7위)
+2025 Naver Bugbounty Hall of Fame 등재 (9위)
 <br>
 [네이버](https://bugbounty.naver.com/hall-of-fame)
 - NBB-2025-0171
