@@ -5,7 +5,7 @@
 
 ------- 
 
-# 🐝White Hacking
+# 🐝White_Hacking
 ## Kakao
 2025 Kakao Bugbounty Hall of Fame 등재 (4위)
 <br>
